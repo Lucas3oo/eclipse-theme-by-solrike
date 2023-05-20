@@ -16,6 +16,7 @@ Languages supported:
 Search for "Eclipse theme by Solrike" and then install. The theme is called "Eclipse Light by Solrike".
 
 You can also get it from [Visual studio marketplace](https://marketplace.visualstudio.com/items?itemName=solrike.eclipse-theme-by-solrike "marketplace")
+or from [Open VSX Registry](https://open-vsx.org/extension/solrike/eclipse-theme-by-solrike "Open VSX Registry")
 
 ## Sample from VSCode
 
@@ -30,7 +31,8 @@ Theia Blueprint (1.37.0) do have settings for "semantic highlighting" but it doe
 
 ## Other setups
 
-For Eclipse key bindings use for instance: [Eclipse Keymap](https://marketplace.visualstudio.com/items?itemName=alphabotsec.vscode-eclipse-keybindings "Eclipse Keymap")
+For Eclipse key bindings use for instance: [VSCode Eclipse Keymap](https://marketplace.visualstudio.com/items?itemName=alphabotsec.vscode-eclipse-keybindings "Eclipse Keymap")
+[Theia Eclipse Keymap](https://open-vsx.org/extension/alphabotsec/vscode-eclipse-keybindings "Eclipse Keymap")
 
 Eclipse editor font is 'Menlo' and line height should be set to 1.25.
 
