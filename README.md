@@ -1,6 +1,8 @@
 # Eclipse theme by Solrike
 
-Eclipse inspired colour theme for VSCode and Theia.
+Eclipse inspired colour theme for [VSCode](https://code.visualstudio.com "VSCode")  and [Theia IDE](https://theia-ide.org "Theia")
+
+
 
 It uses "semantic highlighting" which means that some syntax colouring is done by the language server which can lead to delays in processing of the files.
 
