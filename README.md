@@ -1,6 +1,6 @@
 # Eclipse theme by Solrike
 
-Eclipse inspired colour theme for [VSCode](https://code.visualstudio.com "VSCode")  and [Theia IDE](https://theia-ide.org "Theia")
+Eclipse inspired colour theme for [VSCode](https://code.visualstudio.com "VSCode")  and [Eclipse Theia IDE](https://theia-ide.org "Theia")
 
 
 
