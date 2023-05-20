@@ -33,7 +33,7 @@ Theia Blueprint (1.37.0) do have settings for "semantic highlighting" but it doe
 
 ## Other setups
 
-For Eclipse key bindings use for instance: [VSCode Eclipse Keymap](https://marketplace.visualstudio.com/items?itemName=alphabotsec.vscode-eclipse-keybindings "Eclipse Keymap")
+For Eclipse key bindings use for instance: [VSCode Eclipse Keymap](https://marketplace.visualstudio.com/items?itemName=alphabotsec.vscode-eclipse-keybindings "Eclipse Keymap"),
 [Theia Eclipse Keymap](https://open-vsx.org/extension/alphabotsec/vscode-eclipse-keybindings "Eclipse Keymap")
 
 Eclipse editor font is 'Menlo' and line height should be set to 1.25.
