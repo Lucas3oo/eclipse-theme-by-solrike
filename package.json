@@ -2,12 +2,12 @@
   "name" : "eclipse-theme-by-solrike",
   "displayName" : "Eclipse theme by Solrike",
   "description" : "Colour theme inspired by Eclipse. Mainly supports Java and TypeScript/JavaScript",
-  "version" : "0.0.1",
+  "version" : "0.0.2",
   "license" : "MIT",
   "author" : "Lucas Persson",
   "publisher" : "solrike",
   "engines" : {
-    "vscode" : "^1.78.0"
+    "vscode" : "^1.45.0"
   },
   "categories" : [ "Themes" ],
   "keywords" : [ "java", "typescript", "eclipse", "semantic-highlighting" ],

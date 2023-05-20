@@ -6,6 +6,10 @@ All notable changes to the "eclipse-theme-by-solrike" extension will be document
 ## [Unreleased]
 
 
+## [0.0.2] - 2023-05-20
+
+- Lower the required VSCode API version to 1.45 since semantic highlighting was introduced in 1.43.
+
 ## [0.0.1] - 2023-05-20
 
 - Initial release with support for Java, JavaScript/TypeScript, Groovy and CSS.
