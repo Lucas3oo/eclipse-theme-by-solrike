@@ -34,10 +34,10 @@
 		"statusBarItem.errorBackground": "#c72e0f",
 		"statusBarItem.remoteBackground": "#16825d",
 		"statusBarItem.remoteForeground": "#ffffff",
-		"tab.lastPinnedBorder": "#61616130",
+		"tab.lastPinnedBorder": "#61616130"
 	},
 
-		"tokenColors": [
+	"tokenColors": [
 		// Custom values - Non-code tokens
 		{
 			"name": "Deprecated",
@@ -51,7 +51,7 @@
 			"name": "Emphasis text",
 			"scope": "emphasis",
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"name": "Tag content",
 			"scope": [
 				"entity.name.tag",
-				"entity.name.tag.localname",
+				"entity.name.tag.localname"
 			],
 			"settings": {
 				"foreground": "#3F7F7F",
@@ -665,7 +665,7 @@
 			"name": "Keywords (JavaScript/TypeScript)",
 			"scope": [
 				"constant.language.boolean.true.js",
-				"constant.language.boolean.false.js",
+				"constant.language.boolean.false.js"
 			],
 			"settings": {
 				"foreground": "#DD2867",

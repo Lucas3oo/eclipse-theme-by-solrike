@@ -1,9 +1,9 @@
 {
-  "name" : "eclipse-theme-by-solrke",
+  "name" : "eclipse-theme-by-solrike",
   "displayName" : "Eclipse theme by Solrike",
-  "description" : "Color theme inspired by Eclipse. Mainly supports Java and TypeScript/JavaScript",
+  "description" : "Colour theme inspired by Eclipse. Mainly supports Java and TypeScript/JavaScript",
   "version" : "0.0.1",
-  "license" : "MIT license, see LICENSE file.",
+  "license" : "MIT",
   "author" : "Lucas Persson",
   "publisher" : "solrike",
   "engines" : {
@@ -19,7 +19,7 @@
   "bugs" : {
     "url" : "https://github.com/Lucas3oo/eclipse-theme-by-solrike/issues"
   },
-  "icon" : "assests/logo.png",
+  "icon" : "assets/icon.png",
   "readme": "README.md",
   "contributes" : {
     "themes" : [ {
