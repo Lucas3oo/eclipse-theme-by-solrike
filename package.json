@@ -1,31 +1,47 @@
 {
-  "name" : "eclipse-theme-by-solrike",
-  "displayName" : "Eclipse theme by Solrike",
-  "description" : "Colour theme inspired by Eclipse. Mainly supports Java and TypeScript/JavaScript",
-  "version" : "0.0.2",
-  "license" : "MIT",
-  "author" : "Lucas Persson",
-  "publisher" : "solrike",
-  "engines" : {
-    "vscode" : "^1.45.0"
+  "name": "eclipse-theme-by-solrike",
+  "displayName": "Eclipse theme by Solrike",
+  "description": "Colour theme inspired by Eclipse. Mainly supports Java and TypeScript/JavaScript",
+  "version": "0.0.2",
+  "license": "MIT",
+  "author": "Lucas Persson",
+  "publisher": "solrike",
+  "engines": {
+    "vscode": "^1.45.0"
   },
-  "categories" : [ "Themes" ],
-  "keywords" : [ "java", "typescript", "eclipse", "semantic-highlighting" ],
-  "homepage" : "https://github.com/Lucas3oo/eclipse-theme-by-solrike",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/Lucas3oo/eclipse-theme-by-solrike.git"
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "java",
+    "typescript",
+    "eclipse",
+    "semantic-highlighting"
+  ],
+  "homepage": "https://github.com/Lucas3oo/eclipse-theme-by-solrike",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lucas3oo/eclipse-theme-by-solrike.git"
   },
-  "bugs" : {
-    "url" : "https://github.com/Lucas3oo/eclipse-theme-by-solrike/issues"
+  "bugs": {
+    "url": "https://github.com/Lucas3oo/eclipse-theme-by-solrike/issues"
   },
-  "icon" : "assets/icon.png",
+  "icon": "assets/icon.png",
   "readme": "README.md",
-  "contributes" : {
-    "themes" : [ {
-      "label" : "Eclipse Light by Solrike",
-      "uiTheme" : "vs",
-      "path" : "./themes/eclipse-light-by-solrike-color-theme.json"
-    } ]
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eclipse Light by Solrike",
+        "uiTheme": "vs",
+        "path": "./themes/eclipse-light-by-solrike-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "eclipse-icons-by-solrike",
+        "label": "Eclipse Icons by Solrike",
+        "path": "./themes/eclipse-by-solrike-icon-theme.json"
+      }
+    ]
   }
 }

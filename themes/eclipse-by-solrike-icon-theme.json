@@ -1,0 +1,69 @@
+{
+  "iconDefinitions": {
+    "_build-folder": {
+      "iconPath": "../assets/icons/build-folder.png"
+    },
+    "_build-folder-expanded": {
+      "iconPath": "../assets/icons/build-folder-expanded.png"
+    },
+    "_file": {
+      "iconPath": "../assets/icons/file.png"
+    },
+    "_folder": {
+      "iconPath": "../assets/icons/folder.png"
+    },
+    "_folder-expanded": {
+      "iconPath": "../assets/icons/folder-expanded.png"
+    },
+    "_git": {
+      "iconPath": "../assets/icons/git.png"
+    },
+    "_java": {
+      "iconPath": "../assets/icons/java.png"
+    },
+    "_java_class": {
+      "fontCharacter": "\\E050",
+      "fontColor": "#519aba"
+    },
+    "_java_classpath": {
+      "fontCharacter": "\\E050",
+      "fontColor": "#6f51ba"
+    },
+    //folder-library, project
+    "symbol-package": {
+      "iconPath": "../assets/icons/folder.png"
+    },
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder-expanded",
+  "folderNames": {
+    "bin": "_build-folder",
+    "build": "_build-folder",
+    "dist": "_build-folder",
+    "out": "_build-folder"
+  },
+  "folderNamesExpanded": {
+    "bin": "_build-folder-expanded",
+    "build": "_build-folder-expanded",
+    "dist": "_build-folder-expanded",
+    "out": "_build-folder-expanded"
+  },
+  "fileNames": {
+    ".gitattributes": "_git",
+    ".gitignore": "_git",
+    ".gitmodules": "_git",
+    ".gitkeep": "_git",
+    "cmakecache.txt": "_make",
+    "Makefile": "_make"
+  },
+  "hidesExplorerArrows": false,
+  "languageIds": {
+    "java": "_java",
+    "markdown": "_markdown",
+  },
+  "fileExtensions": {
+    "class": "_java_class",
+    "classpath": "_java_classpath",
+  }
+}
