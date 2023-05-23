@@ -1,0 +1,33 @@
+
+    "_build-folder": {
+      "iconPath": "../assets/icons/build-folder.png"
+    },
+    "_build-folder-expanded": {
+      "iconPath": "../assets/icons/build-folder-expanded.png"
+    },
+
+    "_git": {
+      "iconPath": "../assets/icons/git.png"
+    },
+
+
+  "folderNames": {
+    "bin": "_build-folder",
+    "build": "_build-folder",
+    "dist": "_build-folder",
+    "out": "_build-folder"
+  },
+  "folderNamesExpanded": {
+    "bin": "_build-folder-expanded",
+    "build": "_build-folder-expanded",
+    "dist": "_build-folder-expanded",
+    "out": "_build-folder-expanded"
+  },
+  "fileNames": {
+    ".gitattributes": "_git",
+    ".gitignore": "_git",
+    ".gitmodules": "_git",
+    ".gitkeep": "_git",
+    "cmakecache.txt": "_make",
+    "Makefile": "_make"
+  },
