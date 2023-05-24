@@ -27,11 +27,11 @@ or from [Open VSX Registry](https://open-vsx.org/extension/solrike/eclipse-theme
 
 ## Sample from VSCode
 
-    ![screenshot](https://raw.githubusercontent.com/Lucas3oo/eclipse-theme-by-solrike/main/assets/vscode-screenshot.png)
+![screenshot](https://raw.githubusercontent.com/Lucas3oo/eclipse-theme-by-solrike/main/assets/vscode-screenshot.png)
 
- <details>
+<details>
   <summary>Themes sample</summary>
-    ![screenshot](https://raw.githubusercontent.com/Lucas3oo/eclipse-theme-by-solrike/main/assets/vscode-screenshot.png)
+  ![screenshot](https://raw.githubusercontent.com/Lucas3oo/eclipse-theme-by-solrike/main/assets/vscode-screenshot.png)
 </details>
 
 
