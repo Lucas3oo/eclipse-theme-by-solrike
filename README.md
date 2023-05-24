@@ -29,20 +29,28 @@ or from [Open VSX Registry](https://open-vsx.org/extension/solrike/eclipse-theme
 
 <details>
 <summary>Themes sample</summary>
-![screenshot](https://raw.githubusercontent.com/Lucas3oo/eclipse-theme-by-solrike/main/assets/vscode-screenshot.png)
+  <img src="https://raw.githubusercontent.com/Lucas3oo/eclipse-theme-by-solrike/main/assets/vscode-screenshot.png" name="screenshot">
 </details>
 
 
 ## Known issues
 
-Theia Blueprint (1.37.0) do have settings for "semantic highlighting" but it doesn't seems to work. Most notably is the fact that class members will not have the correct colour.
+Theia Blueprint (1.37.0) do have settings for "semantic highlighting" but it doesn't seems to work, [see](https://github.com/eclipse-theia/theia/issues/10428). Most notably is the fact that class members will not have the correct colour.
 
-    editor.semanticHighlighting.enabled = true
+```json
+"editor.semanticHighlighting.enabled": true
+```
 
 ## Other setups
 
 For Eclipse key bindings use for instance: [VSCode Eclipse Keymap](https://marketplace.visualstudio.com/items?itemName=alphabotsec.vscode-eclipse-keybindings "Eclipse Keymap"),
 [Theia Eclipse Keymap](https://open-vsx.org/extension/alphabotsec/vscode-eclipse-keybindings "Eclipse Keymap")
+
+For nice a Java project view with Gradle builds install:
+* [Project Manager for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-dependency)
+* [Gradle for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-gradle)
+
+The Gradle plugin has to be downloaded and installed manually in Theia.
 
 Eclipse editor font is 'Menlo' and line height should be set to 1.25.
 

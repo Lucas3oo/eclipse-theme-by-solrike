@@ -48,6 +48,9 @@
     "_javacript": {
       "iconPath": "../assets/file-icons/jsEditorIcon@2x.png"
     },
+    "_json": {
+      "iconPath": "../assets/file-icons/json@2x.png"
+    },
     "_launch_json": {
       "iconPath": "../assets/file-icons/lrun_obj.gif"
     },
@@ -62,6 +65,9 @@
     },
     "_typescript": {
       "iconPath": "../assets/file-icons/tsEditorIcon@2x.png"
+    },
+    "_xml": {
+      "iconPath": "../assets/file-icons/xml@2x.png"
     },
     "_yaml": {
       "iconPath": "../assets/file-icons/yamlEditorIcon@2x.png"
@@ -90,15 +96,15 @@
     ".classpath": "_java_classpath",
     ".gitattributes": "_git",
     ".gitignore": "_git",
-    ".gitmodules": "_git",
     ".gitkeep": "_git",
+    ".gitmodules": "_git",
     ".project": "_java_project",
     "gradlew": "_gradle",
     "gradlew.bat": "_gradle",
-    "license": "_license",
     "launch.json": "_launch_json",
-    "package.json": "_package_json",
+    "license": "_license",
     "package-lock.json": "_package_json",
+    "package.json": "_package_json",
   },
   "hidesExplorerArrows": false,
   "languageIds": {
@@ -107,10 +113,12 @@
     "groovy": "_groovy",
     "java": "_java",
     "javascript": "_javascript",
+    "json": "_json",
     "markdown": "_markdown",
-    "yaml": "_yaml",
     "sql": "_sql",
     "typescript": "_typescript",
+    "xml": "_xml",
+    "yaml": "_yaml",
   },
   "fileExtensions": {
     "class": "_java_class",

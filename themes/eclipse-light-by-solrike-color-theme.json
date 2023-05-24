@@ -2,29 +2,19 @@
 	"name": "Eclipse Light by Solrike",
 	"type": "light",
 	"colors": {
-
-		// Custom values
-
-		"editor.background": "#ffffff",
-		"editor.foreground": "#000000",
 		"activityBar.background": "#dddddd",
 		"activityBar.inactiveForeground": "#383838",
 		"activityBar.foreground": "#000000",
-
+		"editor.background": "#ffffff",
+		"editor.foreground": "#000000",
+		"editorLineNumber.foreground": "#787878",
 		"statusBar.background": "#40357A",
-
-		// for project explorer, 6D9D5F, 4A8854, 498653
 		"symbolIcon.classForeground": "#4A8854",
 		"symbolIcon.interfaceForeground": "#5F4F9F",
 		"symbolIcon.packageForeground": "#735043",
 		"symbolIcon.methodForeground": "#60925C",
 		"symbolIcon.fieldForeground": "#BD4345",
 		"symbolIcon.constantForeground": "#BD4345",
-
-		"editorLineNumber.foreground": "#787878",
-
-		// 40357A
-
 	},
 
 	"tokenColors": [
