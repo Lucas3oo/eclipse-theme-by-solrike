@@ -1,0 +1,52 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "../assets/file-icons/file_obj.gif"
+    },
+    "_folder": {
+      "iconPath": "../assets/file-icons/folder_closed.gif"
+    },
+    "_folder-expanded": {
+      "iconPath": "../assets/file-icons/folder.gif"
+    },
+    "_gradle": {
+      "iconPath": "../assets/file-icons/gradle_file@2x.png"
+    },
+    "_java": {
+      "iconPath": "../assets/file-icons/jcu_obj@2x.png"
+    },
+    "_java_class": {
+      "iconPath": "../assets/file-icons/classf_obj@2x.png"
+    },
+    "_java_classpath": {
+      "iconPath": "../assets/file-icons/library_obj@2x.png"
+    },
+    "_markdown": {
+      "iconPath": "../assets/file-icons/wiki-editor-icon.gif"
+    },
+
+    
+
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder-expanded",
+  "fileNames": {
+    "gradlew": "_gradle",
+    "gradlew.bat": "_gradle",
+    "license": "_license",
+  },
+
+  "hidesExplorerArrows": false,
+  "languageIds": {
+    "java": "_java",
+    "markdown": "_markdown",
+    "json": "_json",
+    "yaml": "_yaml",
+  },
+  "fileExtensions": {
+    "class": "_java_class",
+    "classpath": "_java_classpath",
+    "gradle": "_gradle",
+  }
+}

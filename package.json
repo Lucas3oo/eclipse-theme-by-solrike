@@ -16,7 +16,11 @@
     "java",
     "typescript",
     "eclipse",
-    "semantic-highlighting"
+    "semantic-highlighting",
+    "product-icon-theme",
+    "icon-theme",
+    "icons",
+    "theme"
   ],
   "homepage": "https://github.com/Lucas3oo/eclipse-theme-by-solrike",
   "repository": {
@@ -38,10 +42,17 @@
     ],
     "iconThemes": [
       {
-        "id": "eclipse-icons-by-solrike",
-        "label": "Eclipse Icons by Solrike",
-        "path": "./themes/eclipse-by-solrike-icon-theme.json"
+        "id": "eclipse-file-icons-by-solrike",
+        "label": "Eclipse File Icons by Solrike",
+        "path": "./themes/eclipse-by-solrike-file-icon-theme.json"
       }
-    ]
+    ],
+		"productIconThemes": [
+			{
+        "id": "eclipse-product-icons-by-solrike",
+				"label": "Eclipse Product Icons by Solrike",
+				"path": "./themes/eclipse-by-solrike-product-icon-theme.json"
+			}
+		]    
   }
 }

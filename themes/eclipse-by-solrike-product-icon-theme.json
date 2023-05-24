@@ -1,0 +1,71 @@
+{
+    "fonts": [
+        {
+            "id": "eclipse",
+            "style": "normal",
+            "weight": "normal",
+            "src": [
+                {
+                    "path": "../assets/product-icons/icons.ttf",
+                    "format": "truetype"
+                }
+            ]
+        },
+        {
+            "id": "eclipse2",
+            "style": "normal",
+            "weight": "normal",
+            "src": [
+                {
+                    "path": "../assets/product-icons/icons2.ttf",
+                    "format": "truetype"
+                }
+            ]
+        }
+    ],
+    "iconDefinitions": {
+        "project": {
+            "fontCharacter": "G"
+        },
+        // source folder, not used
+        "file-module": {
+            "fontCharacter": "K"
+        },
+        "symbol-package": {
+            "fontCharacter": "a"
+        },
+        "symbol-class": {
+            "fontCharacter": "C"
+        },
+        "symbol-interface": {
+            "fontCharacter": "I"
+        },
+        // dependency container, like JRE, gradle 
+        "folder-library": {
+            "fontCharacter": "d"
+        },
+        // JAR in dependecy container and source folder
+        "file-submodule": {
+            "fontCharacter": "K"
+        },
+        // JAR in Gradle dependecy container
+        "file-zip": {
+            "fontCharacter": "K"
+        },
+        // members, small box with a cross
+        "symbol-field": {
+            "fontId": "eclipse2",
+            "fontCharacter": "Q"
+        },
+        // green dot when public, yellow romb when protected and read square when private
+        "symbol-method": {
+            "fontId": "eclipse2",
+            "fontCharacter": "M"
+        },
+        // static final
+        "symbol-constant": {
+            "fontId": "eclipse2",
+            "fontCharacter": "R"
+        }
+    }
+}

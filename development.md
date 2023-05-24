@@ -23,3 +23,18 @@ npx ovsx create-namespace solrike -p <token>
 npx ovsx publish -p <token>
 
  ```
+
+
+
+## Notes
+
+project - project
+source folder - file-submodule
+java package - symbol-package (symbol-namespace?)
+java class - symbol-class
+java interface - symbol-interface
+dependency container, like JRE system libs - folder-library
+  jar inside dependency container - file-submodule
+
+
+https://microsoft.github.io/vscode-codicons/dist/codicon.html
