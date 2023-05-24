@@ -11,30 +11,20 @@
 		"activityBar.inactiveForeground": "#383838",
 		"activityBar.foreground": "#000000",
 
-		// Default values
+		"statusBar.background": "#40357A",
 
-		"activityBarBadge.background": "#007acc",
-		"editor.inactiveSelectionBackground": "#e5ebf1",
-		"editor.selectionHighlightBackground": "#add6ff80",
-		"editorIndentGuide.activeBackground": "#939393",
-		"editorIndentGuide.background": "#d3d3d3",
-		"editorSuggestWidget.background": "#f3f3f3",
-		"input.placeholderForeground": "#767676",
-		"list.activeSelectionIconForeground": "#ffffff",
-		"list.hoverBackground": "#e8e8e8",
-		"notebook.cellBorderColor": "#e8e8e8",
-		"notebook.selectedCellBackground": "#c8ddf150",
-		"ports.iconRunningProcessForeground": "#369432",
-		"searchEditor.textInputBorder": "#cecece",
-		"settings.numberInputBorder": "#cecece",
-		"settings.textInputBorder": "#cecece",
-		"sideBarSectionHeader.background": "#00000000",
-		"sideBarSectionHeader.border": "#61616130",
-		"sideBarTitle.foreground": "#6f6f6f",
-		"statusBarItem.errorBackground": "#c72e0f",
-		"statusBarItem.remoteBackground": "#16825d",
-		"statusBarItem.remoteForeground": "#ffffff",
-		"tab.lastPinnedBorder": "#61616130"
+		// for project explorer, 6D9D5F, 4A8854, 498653
+		"symbolIcon.classForeground": "#4A8854",
+		"symbolIcon.interfaceForeground": "#5F4F9F",
+		"symbolIcon.packageForeground": "#735043",
+		"symbolIcon.methodForeground": "#60925C",
+		"symbolIcon.fieldForeground": "#BD4345",
+		"symbolIcon.constantForeground": "#BD4345",
+
+		"editorLineNumber.foreground": "#787878",
+
+		// 40357A
+
 	},
 
 	"tokenColors": [

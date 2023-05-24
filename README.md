@@ -1,6 +1,6 @@
 # Eclipse theme by Solrike
 
-Eclipse inspired colour theme for [VSCode](https://code.visualstudio.com "VSCode")  and [Eclipse Theia IDE](https://theia-ide.org "Theia")
+Eclipse inspired themes for [VSCode](https://code.visualstudio.com "VSCode")  and [Eclipse Theia IDE](https://theia-ide.org "Theia")
 
 
 
@@ -15,14 +15,23 @@ Languages supported:
 
 ## Install
 
-Search for "Eclipse theme by Solrike" and then install. The theme is called "Eclipse Light by Solrike".
+Search for "Eclipse theme by Solrike" and then install.
+
+The follwing themes get installed:
+* Eclipse Light by Solrike
+* Eclipse File Icons by Solrike
+* Eclipse Product Icons by Solrike
 
 You can also get it from [Visual studio marketplace](https://marketplace.visualstudio.com/items?itemName=solrike.eclipse-theme-by-solrike "marketplace")
 or from [Open VSX Registry](https://open-vsx.org/extension/solrike/eclipse-theme-by-solrike "Open VSX Registry")
 
 ## Sample from VSCode
 
+ <details>
+  <summary>Themes sample</summary><details>
 ![screenshot](https://raw.githubusercontent.com/Lucas3oo/eclipse-theme-by-solrike/main/assets/vscode-screenshot.png)
+</details>
+
 
 
 ## Known issues

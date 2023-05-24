@@ -1,5 +1,14 @@
 {
   "iconDefinitions": {
+    "_build-folder": {
+      "iconPath": "../assets/file-icons/output_folder_attrib@2x.png"
+    },
+    "_build-folder-expanded": {
+      "iconPath": "../assets/file-icons/output_folder_attrib@2x.png"
+    },
+    "_css": {
+      "iconPath": "../assets/file-icons/cssEditorIcon@2x.png"
+    },
     "_file": {
       "iconPath": "../assets/file-icons/file_obj.gif"
     },
@@ -9,8 +18,20 @@
     "_folder-expanded": {
       "iconPath": "../assets/file-icons/folder.gif"
     },
+    "_html": {
+      "iconPath": "../assets/file-icons/htmlEditorIcon@2x.png"
+    },
+    "_git": {
+      "iconPath": "../assets/file-icons/git_file.png"
+    },
     "_gradle": {
       "iconPath": "../assets/file-icons/gradle_file@2x.png"
+    },
+    "_groovy": {
+      "iconPath": "../assets/file-icons/groovy_file@2x.png"
+    },
+    "_jar": {
+      "iconPath": "../assets/file-icons/jar_l_obj@2x.png"
     },
     "_java": {
       "iconPath": "../assets/file-icons/jcu_obj@2x.png"
@@ -21,32 +42,79 @@
     "_java_classpath": {
       "iconPath": "../assets/file-icons/library_obj@2x.png"
     },
+    "_java_project": {
+      "iconPath": "../assets/file-icons/configure_build_path@2x.png"
+    },
+    "_javacript": {
+      "iconPath": "../assets/file-icons/jsEditorIcon@2x.png"
+    },
+    "_launch_json": {
+      "iconPath": "../assets/file-icons/lrun_obj.gif"
+    },
     "_markdown": {
       "iconPath": "../assets/file-icons/wiki-editor-icon.gif"
     },
-
-    
-
+    "_package_json": {
+      "iconPath": "../assets/file-icons/npmiconSmall.png"
+    },
+    "_sql": {
+      "iconPath": "../assets/file-icons/sql_editor.gif"
+    },
+    "_typescript": {
+      "iconPath": "../assets/file-icons/tsEditorIcon@2x.png"
+    },
+    "_yaml": {
+      "iconPath": "../assets/file-icons/yamlEditorIcon@2x.png"
+    },
   },
   "file": "_file",
   "folder": "_folder",
   "folderExpanded": "_folder-expanded",
+  "folderNames": {
+    "bin": "_build-folder",
+    "bin.nosync": "_build-folder",
+    "build": "_build-folder",
+    "dist": "_build-folder",
+    "dist.nosync": "_build-folder",
+    "out": "_build-folder",
+  },
+  "folderNamesExpanded": {
+    "bin": "_build-folder-expanded",
+    "bin.nosync": "_build-folder-expanded",
+    "build": "_build-folder-expanded",
+    "dist": "_build-folder-expanded",
+    "dist.nosync": "_build-folder-expanded",
+    "out": "_build-folder-expanded"
+  },
   "fileNames": {
+    ".classpath": "_java_classpath",
+    ".gitattributes": "_git",
+    ".gitignore": "_git",
+    ".gitmodules": "_git",
+    ".gitkeep": "_git",
+    ".project": "_java_project",
     "gradlew": "_gradle",
     "gradlew.bat": "_gradle",
     "license": "_license",
+    "launch.json": "_launch_json",
+    "package.json": "_package_json",
+    "package-lock.json": "_package_json",
   },
-
   "hidesExplorerArrows": false,
   "languageIds": {
+    "css": "_css",
+    "html": "_html",
+    "groovy": "_groovy",
     "java": "_java",
+    "javascript": "_javascript",
     "markdown": "_markdown",
-    "json": "_json",
     "yaml": "_yaml",
+    "sql": "_sql",
+    "typescript": "_typescript",
   },
   "fileExtensions": {
     "class": "_java_class",
-    "classpath": "_java_classpath",
     "gradle": "_gradle",
+    "jar": "_jar",
   }
 }

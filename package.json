@@ -1,8 +1,8 @@
 {
   "name": "eclipse-theme-by-solrike",
   "displayName": "Eclipse theme by Solrike",
-  "description": "Colour theme inspired by Eclipse. Mainly supports Java and TypeScript/JavaScript",
-  "version": "0.0.2",
+  "description": "Colour and icon themes inspired by Eclipse. Mainly supports Java and TypeScript/JavaScript",
+  "version": "0.0.3",
   "license": "MIT",
   "author": "Lucas Persson",
   "publisher": "solrike",
