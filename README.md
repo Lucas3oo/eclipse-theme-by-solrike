@@ -28,10 +28,10 @@ or from [Open VSX Registry](https://open-vsx.org/extension/solrike/eclipse-theme
 ## Sample from VSCode
 
  <details>
-  <summary>Themes sample</summary><details>
-![screenshot](https://raw.githubusercontent.com/Lucas3oo/eclipse-theme-by-solrike/main/assets/vscode-screenshot.png)
+  <summary>Themes sample</summary>
+    ![screenshot](https://raw.githubusercontent.com/Lucas3oo/eclipse-theme-by-solrike/main/assets/vscode-screenshot.png)
+    ![screenshot](assets/vscode-screenshot.png)
 </details>
-
 
 
 ## Known issues
