@@ -41,6 +41,9 @@ Theia Blueprint (1.37.0) do have settings for "semantic highlighting" but it doe
 "editor.semanticHighlighting.enabled": true
 ```
 
+Theia Blueprint (1.37.0) doesn't support "product icon themes".
+
+
 ## Other setups
 
 For Eclipse key bindings use for instance: [VSCode Eclipse Keymap](https://marketplace.visualstudio.com/items?itemName=alphabotsec.vscode-eclipse-keybindings "Eclipse Keymap"),
