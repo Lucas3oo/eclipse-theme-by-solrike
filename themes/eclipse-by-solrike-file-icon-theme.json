@@ -18,9 +18,6 @@
     "_folder-expanded": {
       "iconPath": "../assets/file-icons/folder.gif"
     },
-    "_html": {
-      "iconPath": "../assets/file-icons/htmlEditorIcon@2x.png"
-    },
     "_git": {
       "iconPath": "../assets/file-icons/git_file.png"
     },
@@ -29,6 +26,9 @@
     },
     "_groovy": {
       "iconPath": "../assets/file-icons/groovy_file@2x.png"
+    },
+    "_html": {
+      "iconPath": "../assets/file-icons/htmlEditorIcon@2x.png"
     },
     "_jar": {
       "iconPath": "../assets/file-icons/jar_l_obj@2x.png"
@@ -109,8 +109,8 @@
   "hidesExplorerArrows": false,
   "languageIds": {
     "css": "_css",
-    "html": "_html",
     "groovy": "_groovy",
+    "html": "_html",
     "java": "_java",
     "javascript": "_javascript",
     "json": "_json",

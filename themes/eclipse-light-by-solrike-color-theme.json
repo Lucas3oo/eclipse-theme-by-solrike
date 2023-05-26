@@ -3,18 +3,18 @@
 	"type": "light",
 	"colors": {
 		"activityBar.background": "#dddddd",
-		"activityBar.inactiveForeground": "#383838",
 		"activityBar.foreground": "#000000",
+		"activityBar.inactiveForeground": "#383838",
 		"editor.background": "#ffffff",
 		"editor.foreground": "#000000",
 		"editorLineNumber.foreground": "#787878",
 		"statusBar.background": "#40357A",
 		"symbolIcon.classForeground": "#4A8854",
-		"symbolIcon.interfaceForeground": "#5F4F9F",
-		"symbolIcon.packageForeground": "#735043",
-		"symbolIcon.methodForeground": "#60925C",
-		"symbolIcon.fieldForeground": "#BD4345",
 		"symbolIcon.constantForeground": "#BD4345",
+		"symbolIcon.fieldForeground": "#BD4345",
+		"symbolIcon.interfaceForeground": "#5F4F9F",
+		"symbolIcon.methodForeground": "#60925C",
+		"symbolIcon.packageForeground": "#735043",
 	},
 
 	"tokenColors": [
@@ -936,9 +936,5 @@
 			"fontStyle": ""
 		},
 		"parameter:javascript": "#6A3E3E"
-
-
-
-
 	}
 }
