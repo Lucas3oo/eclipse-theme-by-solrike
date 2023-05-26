@@ -29,8 +29,12 @@ or from [Open VSX Registry](https://open-vsx.org/extension/solrike/eclipse-theme
 ## Sample from VSCode
 
 <details>
-<summary>Themes sample</summary>
+<summary>Themes sample - Java</summary>
   <img src="https://raw.githubusercontent.com/Lucas3oo/eclipse-theme-by-solrike/main/assets/vscode-screenshot.png" name="screenshot">
+</details>
+<details>
+<summary>Themes sample - TypeScript</summary>
+  <img src="https://raw.githubusercontent.com/Lucas3oo/eclipse-theme-by-solrike/main/assets/vscode-screenshot2.png" name="screenshot">
 </details>
 
 

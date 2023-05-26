@@ -5,6 +5,11 @@ All notable changes to the "eclipse-theme-by-solrike" extension will be document
 
 ## [Unreleased]
 
+## [0.0.4] - 2023-05-26
+
+- Adding icons for images and AWS CDK
+- Fixing bug for icon for JavaScript
+
 ## [0.0.3] - 2023-05-24
 
 - Adding file icons theme and a product icons theme.
