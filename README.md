@@ -1,4 +1,5 @@
 # Eclipse theme by Solrike
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/solrike.eclipse-theme-by-solrike.svg)](https://marketplace.visualstudio.com/items?itemName=solrike.eclipse-theme-by-solrike) [![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/solrike.eclipse-theme-by-solrike.svg)](https://marketplace.visualstudio.com/items?itemName=solrike.eclipse-theme-by-solrike)
 
 Eclipse inspired themes for [VSCode](https://code.visualstudio.com "VSCode")  and [Eclipse Theia IDE](https://theia-ide.org "Theia")
 
